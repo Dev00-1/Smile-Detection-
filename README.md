@@ -17,7 +17,7 @@ It predicts dog smiles in images and draws bounding boxes with a confidence scor
 ## 🛠️ How to Run
 1. Clone this repository
    ```bash
-   
+  git clone https://github.com/Dev00-1/Smile-Detection-.git
    
 Open the notebook Google Colab . Link : https://colab.research.google.com/drive/1v0YzwiAFPyRLwJ3Dq7MTwHx0Z8pbI4jN?usp=sharing
 
